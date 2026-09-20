@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Manifesto ENS · ARS | QALQON NEWS</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand-wrap">
+        <div class="brand-mark">Q</div>
+        <div>
+          <div class="brand-name">QALQON NEWS</div>
+          <div class="brand-sub">MAGEN HADASHOT</div>
+        </div>
+      </div>
+      <nav class="nav">
+        <a href="index.html">Início</a>
+        <a href="index.html#livro">Livro</a>
+        <a href="manifesto-ens-ars.html">Manifesto</a>
+      </nav>
+      <div class="lang-switch">
+        <a href="manifesto-ens-ars.html" class="active">PT</a>
+        <a href="locales/en/index.html">EN</a>
+        <a href="locales/he/index.html">HE</a>
+      </div>
+    </header>
+
+    <main class="page-shell">
+      <div class="meta">Manifesto editorial</div>
+      <h1>ENS · ARS</h1>
+      <div class="body-block">
+        <p><strong>ENS</strong> representa o ser humano, em sua totalidade, antes de qualquer função econômica, institucional ou social.</p>
+        <p><strong>ARS</strong> representa a arte, a técnica, a habilidade, o ofício e a capacidade de fazer.</p>
+        <p>O eixo central da linha editorial é este: não automatizar a pessoa; automatizar a tarefa.</p>
+        <p>Quando a tecnologia se torna mais rápida, precisa ser usada para ampliar a capacidade humana e não para reduzir a dignidade do trabalho.</p>
+        <p>Esta linha editorial parte da premissa de que qualquer futuro inteligente deve preservar a pessoa como centro dos processos de decisão, criação, organização e conhecimento.</p>
+        <p><strong>Automatize a tarefa. Amplifique a pessoa.</strong></p>
+      </div>
+    </main>
+  </body>
+</html>
